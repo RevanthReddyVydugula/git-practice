@@ -1,0 +1,1 @@
+Stashing means it helps to store changes that are not ready to be committed
