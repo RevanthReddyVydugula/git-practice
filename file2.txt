@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 2
+=======
+Same file in another branch
+>>>>>>> feature/uppercase

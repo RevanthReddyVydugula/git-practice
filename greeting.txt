@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Merging
+=======
+Welcome everyone
+>>>>>>> feature/uppercase
 =======
 Welcome everyone
 >>>>>>> feature/uppercase
