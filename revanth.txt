@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 Basic Branching
-=======
-GIT KATAS
->>>>>>> feature/uppercase
